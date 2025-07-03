@@ -152,10 +152,6 @@ Modify `static/js/script.js` to add features:
 4. Test thoroughly
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - Google Gemini AI for the powerful language model
@@ -172,4 +168,4 @@ If you have questions or need help:
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Rayendra**
